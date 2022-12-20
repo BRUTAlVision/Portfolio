@@ -90,7 +90,7 @@ const Services = () => {
           }}
         >
           <AiFillAndroid />
-          <span>Canvas</span>
+          <span>Html , Css , Bootstrap , Material UI </span>
         </motion.div>
       
       </section>
